@@ -1,0 +1,114 @@
+.one {
+    margin-left: 30px;
+
+    display: inline-flex;
+
+}
+
+.two {
+
+    display: flex;
+    margin-top: 2%;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+
+
+
+
+
+.four {
+    background-color: rgb(77, 77, 204);
+
+    color: white;
+    border-radius: 20px;
+
+}
+
+.five {
+    background-color: rgb(77, 77, 204);
+
+    color: white;
+    border-radius: 20px;
+    border-style: none;
+
+}
+
+.SIX {
+    font-size: 30px;
+    text-align: center;
+
+}
+
+.nine {
+    display: flex;
+    gap: 15px;
+
+
+
+}
+
+.ten {
+    margin-right: 20px;
+    display: flex;
+    gap: 10px;
+
+}
+
+.eleven {
+    background-color: white;
+    border-style: none;
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+
+
+
+.mek {
+    padding: 20px;
+    font-size: 40px;
+
+}
+
+.chors {
+    background-color: rgb(8, 184, 184);
+    text-decoration: none;
+    border-radius: 6px;
+    font-size: 20px;
+    color: white;
+    border-style: none;
+    padding: 20px;
+
+
+
+}
+
+.ereq {
+    padding: 20px;
+    display: inline flex;
+    gap: 20px;
+
+
+}
+
+.hing {
+    display: flex;
+    gap: 40px;
+
+}
+
+.vec {
+    background-color: white;
+    border-radius: 4px;
+    padding: 40px;
+    box-shadow: 0px 0px 16px 0px rgba(0, 0, 0, 0.25);
+    text-align: center;
+}
+
+.apple{
+    display: flex;
+    gap: 20px;
+}
